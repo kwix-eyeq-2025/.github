@@ -3,6 +3,16 @@
   <img src="https://github.com/user-attachments/assets/8d376900-cbe9-40bb-9dc6-25226df8c0ec" >
 </p>
 
+## 🧑‍🤝‍🧑멤버
+
+|이름|역할|
+|:---:|:---:|
+|[김나래](https://github.com/wing0529)||
+|[고재현](https://github.com/LikeViyotte)||
+|[박찬우](https://github.com/coldrain0919)||
+|[유지민](https://github.com/jimanii)||
+|[이예슬](https://github.com/slowsled)||
+|[이종현](https://github.com/Hyeonpaper)||
 
 <!--
 
