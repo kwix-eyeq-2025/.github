@@ -1,5 +1,7 @@
 ## Research on a Low-Power, High-Efficiency Real-Time Gaze Tracking System for Wearable HCI
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8d376900-cbe9-40bb-9dc6-25226df8c0ec" >
+</p>
 
 
 <!--
